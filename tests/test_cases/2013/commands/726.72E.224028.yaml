@@ -1,0 +1,11 @@
+command_id: 726.72E.224028
+test_cases:
+- expected_values:
+    CMAX_BATT_SOC: 57
+  response: '72E 04 62 40 28 39 '
+- expected_values:
+    CMAX_BATT_SOC: 41
+  response: '72E0462402829'
+- expected_values:
+    CMAX_BATT_SOC: 80
+  response: '72E0462402850'

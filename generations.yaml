@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_C-Max"
+
+generations:
+  - name: "First Generation"
+    start_year: 2003
+    end_year: 2010
+    description: "A compact MPV on the Ford C1 platform, sold in Europe."
+  - name: "Second Generation"
+    start_year: 2010
+    end_year: 2019
+    description: "On the global C platform; in North America sold from 2013 only as the C-Max Hybrid and C-Max Energi."

@@ -1,0 +1,8 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    CMAX_BATT_AGE: 1825
+  response: '72E 05 62 40 27 0F FF '
+- expected_values:
+    CMAX_BATT_AGE: 1825
+  response: 72E056240270FFF

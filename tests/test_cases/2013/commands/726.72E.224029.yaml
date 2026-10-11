@@ -1,0 +1,11 @@
+command_id: 726.72E.224029
+test_cases:
+- expected_values:
+    CMAX_BATT_TEMP: 41
+  response: '72E 04 62 40 29 51 '
+- expected_values:
+    CMAX_BATT_TEMP: 23
+  response: 72E046240293F
+- expected_values:
+    CMAX_BATT_TEMP: 48
+  response: '72E0462402958'

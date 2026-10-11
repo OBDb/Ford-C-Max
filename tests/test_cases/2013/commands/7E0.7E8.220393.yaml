@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    CMAX_AC_P: 420.60947
+  response: '7E8 05 62 03 93 05 AA '
+- expected_values:
+    CMAX_AC_P: 424.38045
+  response: '7E8 05 62 03 93 05 B7 '
+- expected_values:
+    CMAX_AC_P: 155.19039
+  response: '7E8056203930217'
+- expected_values:
+    CMAX_AC_P: 371.29664
+  response: '7E8056203930500'
+- expected_values:
+    CMAX_AC_P: 445.26589
+  response: 7E80562039305FF
+- expected_values:
+    CMAX_AC_P: 520.10536
+  response: '7E8056203930701'

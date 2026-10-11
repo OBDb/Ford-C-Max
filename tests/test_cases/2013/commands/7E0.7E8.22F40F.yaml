@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    CMAX_IAT_ALT2: 74
+  response: '7E8 04 62 F4 0F 72 '
+- expected_values:
+    CMAX_IAT_ALT2: 75
+  response: '7E8 04 62 F4 0F 73 '
+- expected_values:
+    CMAX_IAT_ALT2: 23
+  response: 7E80462F40F3F
+- expected_values:
+    CMAX_IAT_ALT2: 74
+  response: 7E80462F40F72

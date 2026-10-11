@@ -1,0 +1,19 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    CMAX_RPM: 0
+  response: '7E8 05 62 F4 0C 00 00 '
+- expected_values:
+    CMAX_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    CMAX_RPM: 801.25
+  response: |-
+    7E80562F40C0C85
+    7E90562F40C0C90
+- expected_values:
+    CMAX_RPM: 1471.5
+  response: 7E80562F40C16FE
+- expected_values:
+    CMAX_RPM: 2053
+  response: 7E80562F40C2014

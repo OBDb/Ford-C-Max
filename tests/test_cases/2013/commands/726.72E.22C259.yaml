@@ -1,0 +1,11 @@
+command_id: 726.72E.22C259
+test_cases:
+- expected_values:
+    CMAX_CENTRAL_LOCK_STATUS: UNLOCKED
+  response: '72E 04 62 C2 59 00 '
+- expected_values:
+    CMAX_CENTRAL_LOCK_STATUS: UNLOCKED
+  response: 72E0462C25900
+- expected_values:
+    CMAX_CENTRAL_LOCK_STATUS: LOCKED
+  response: 72E0462C25902

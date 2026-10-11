@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    CMAX_ODO_7E0: 206438
+  response: '7E8 06 62 DD 01 03 26 66 '
+- expected_values:
+    CMAX_ODO_7E0: 206473
+  response: 7E80662DD01032689
+- expected_values:
+    CMAX_ODO_7E0: 210174
+  response: 7E80662DD010334FE
+- expected_values:
+    CMAX_ODO_7E0: 211202
+  response: 7E80662DD01033902

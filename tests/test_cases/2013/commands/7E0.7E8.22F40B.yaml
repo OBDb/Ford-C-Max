@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    CMAX_MAP: 1.30535
+  response: '7E8 04 62 F4 0B 09 '
+- expected_values:
+    CMAX_MAP: 1.30535
+  response: 7E80462F40B09
+- expected_values:
+    CMAX_MAP: 3.19086
+  response: 7E80462F40B16
