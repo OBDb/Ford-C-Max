@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    CMAX_WARMUP_CLR: 255
+  response: '7E8 04 62 F4 30 FF '
+- expected_values:
+    CMAX_WARMUP_CLR: 255
+  response: "7E8 04 62 F4 30 FF \n7E9 04 62 F4 30 04 "
+- expected_values:
+    CMAX_WARMUP_CLR: 255
+  response: 7E80462F430FF

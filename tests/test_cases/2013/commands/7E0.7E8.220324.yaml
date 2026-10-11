@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    CMAX_HPFP_V: 0.5132
+  response: '7E8 05 62 03 24 00 69 '
+- expected_values:
+    CMAX_HPFP_V: 0.51808
+  response: '7E8 05 62 03 24 00 6A '
+- expected_values:
+    CMAX_HPFP_V: 0.5132
+  response: '7E8056203240069'
+- expected_values:
+    CMAX_HPFP_V: 1.23656
+  response: 7E80562032400FD
+- expected_values:
+    CMAX_HPFP_V: 2.51222
+  response: '7E8056203240202'

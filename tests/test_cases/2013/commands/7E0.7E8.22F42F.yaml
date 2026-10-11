@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    CMAX_FLI: 18.82353
+  response: '7E8 04 62 F4 2F 30 '
+- expected_values:
+    CMAX_FLI: 4.70588
+  response: 7E80462F42F0C
+- expected_values:
+    CMAX_FLI: 25.09804
+  response: 7E80462F42F40

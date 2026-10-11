@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    CMAX_GRILL_SHUT_DC: 0
+  response: '7E8 04 62 07 07 00 '
+- expected_values:
+    CMAX_GRILL_SHUT_DC: 0
+  response: '7E80462070700'

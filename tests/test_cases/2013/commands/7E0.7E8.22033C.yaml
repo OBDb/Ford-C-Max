@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22033C
+test_cases:
+- expected_values:
+    CMAX_TIP_V: 1.48438
+  response: '7E8 05 62 03 3C 01 30 '
+- expected_values:
+    CMAX_TIP_V: 1.5332
+  response: '7E8 05 62 03 3C 01 3A '
+- expected_values:
+    CMAX_TIP_V: 1.46973
+  response: 7E80562033C012D
+- expected_values:
+    CMAX_TIP_V: 2.48047
+  response: 7E80562033C01FC
+- expected_values:
+    CMAX_TIP_V: 2.86133
+  response: 7E80562033C024A
