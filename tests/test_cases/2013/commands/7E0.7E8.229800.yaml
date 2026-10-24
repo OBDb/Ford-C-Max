@@ -7,8 +7,8 @@ test_cases:
     CMAX_AC_P_SENS_V: 2.14062
   response: '7E8 05 62 98 00 08 90 '
 - expected_values:
-    CMAX_AC_P_SENS_V: 1.09668
-  response: '7E8056298000463'
+    CMAX_AC_P_SENS_V: 0.95801
+  response: 7E80562980003D5
 - expected_values:
     CMAX_AC_P_SENS_V: 1.24902
   response: 7E80562980004FF
