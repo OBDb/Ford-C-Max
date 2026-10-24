@@ -4,8 +4,8 @@ test_cases:
     CMAX_FLI: 18.82353
   response: '7E8 04 62 F4 2F 30 '
 - expected_values:
-    CMAX_FLI: 4.70588
-  response: 7E80462F42F0C
+    CMAX_FLI: 3.52941
+  response: 7E80462F42F09
 - expected_values:
     CMAX_FLI: 25.09804
   response: 7E80462F42F40

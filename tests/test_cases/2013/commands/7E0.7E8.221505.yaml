@@ -7,8 +7,8 @@ test_cases:
     CMAX_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    CMAX_VSS_HD: 13.91406
-  response: 7E80562150506F5
+    CMAX_VSS_HD: 35.92969
+  response: 7E80562150511F7
 - expected_values:
     CMAX_VSS_HD: 91.625
   response: 7E8056215052DD0

@@ -13,8 +13,8 @@ test_cases:
     CMAX_HPFP_DES: 30700
   response: 7E8056203DC0BFE
 - expected_values:
-    CMAX_HPFP_DES: 33300
-  response: 7E8056203DC0D02
+    CMAX_HPFP_DES: 38400
+  response: 7E8056203DC0F00
 - expected_values:
     CMAX_HPFP_DES: 150400
   response: 7E8056203DC3AC0

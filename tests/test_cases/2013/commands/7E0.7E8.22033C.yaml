@@ -13,5 +13,5 @@ test_cases:
     CMAX_TIP_V: 2.48047
   response: 7E80562033C01FC
 - expected_values:
-    CMAX_TIP_V: 2.86133
-  response: 7E80562033C024A
+    CMAX_TIP_V: 2.55371
+  response: 7E80562033C020B

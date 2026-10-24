@@ -7,5 +7,5 @@ test_cases:
     CMAX_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    CMAX_ACC_POS: 45.5
-  response: 7E80462032B5B
+    CMAX_ACC_POS: 52
+  response: 7E80462032B68
