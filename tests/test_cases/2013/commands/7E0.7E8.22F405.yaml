@@ -4,5 +4,5 @@ test_cases:
     CMAX_CYL_HEAD_T_7E0_2: 19
   response: 7E80462F4053B
 - expected_values:
-    CMAX_CYL_HEAD_T_7E0_2: 51
-  response: 7E80462F4055B
+    CMAX_CYL_HEAD_T_7E0_2: 54
+  response: 7E80462F4055E

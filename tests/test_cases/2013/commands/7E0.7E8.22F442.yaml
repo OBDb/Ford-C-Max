@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
+    CMAX_BAT_V_7E0: 14.562
+  response: 7E80562F44238E2
+- expected_values:
     CMAX_BAT_V_7E0: 14.578
   response: 7E80562F44238F2
 - expected_values:
-    CMAX_BAT_V_7E0: 14.625
-  response: 7E80562F4423921
+    CMAX_BAT_V_7E0: 14.601
+  response: 7E80562F4423909
+- expected_values:
+    CMAX_BAT_V_7E0: 15.039
+  response: 7E80562F4423ABF

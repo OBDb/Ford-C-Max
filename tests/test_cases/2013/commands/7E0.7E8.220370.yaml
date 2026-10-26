@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220370
 test_cases:
 - expected_values:
-    CMAX_MAP_HIRES: 99.75
-  response: 7E805620370018F
+    CMAX_MAP_HIRES: 98.25
+  response: '7E8056203700189'
 - expected_values:
     CMAX_MAP_HIRES: 125.25
   response: 7E80562037001F5
