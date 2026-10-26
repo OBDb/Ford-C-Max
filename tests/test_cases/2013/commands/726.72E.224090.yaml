@@ -1,0 +1,8 @@
+command_id: 726.72E.224090
+test_cases:
+- expected_values:
+    CMAX_BAT_CURRENT_726: 1.175
+  response: 72E05624090200E
+- expected_values:
+    CMAX_BAT_CURRENT_726: 9.175
+  response: 72E05624090208E

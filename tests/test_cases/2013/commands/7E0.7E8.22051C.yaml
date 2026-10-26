@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22051C
+test_cases:
+- expected_values:
+    CMAX_CHG_AIR_T: 10
+  response: 7E80462051C32
+- expected_values:
+    CMAX_CHG_AIR_T: 11
+  response: 7E80462051C33
+- expected_values:
+    CMAX_CHG_AIR_T: 12
+  response: 7E80462051C34
+- expected_values:
+    CMAX_CHG_AIR_T: 13
+  response: 7E80462051C35
+- expected_values:
+    CMAX_CHG_AIR_T: 14
+  response: 7E80462051C36
+- expected_values:
+    CMAX_CHG_AIR_T: 15
+  response: 7E80462051C37
+- expected_values:
+    CMAX_CHG_AIR_T: 18
+  response: 7E80462051C3A
+- expected_values:
+    CMAX_CHG_AIR_T: 21
+  response: 7E80462051C3D

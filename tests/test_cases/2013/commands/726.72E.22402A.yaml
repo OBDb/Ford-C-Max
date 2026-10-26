@@ -7,5 +7,5 @@ test_cases:
     CMAX_12V_V: 12.25
   response: 72E0462402A7D
 - expected_values:
-    CMAX_12V_V: 14.55
-  response: 72E0462402AAB
+    CMAX_12V_V: 14.85
+  response: 72E0462402AB1
