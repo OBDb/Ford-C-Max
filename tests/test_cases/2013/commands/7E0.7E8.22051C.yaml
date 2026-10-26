@@ -4,5 +4,5 @@ test_cases:
     CMAX_CHG_AIR_T: 10
   response: 7E80462051C32
 - expected_values:
-    CMAX_CHG_AIR_T: 34
-  response: 7E80462051C4A
+    CMAX_CHG_AIR_T: 36
+  response: 7E80462051C4C

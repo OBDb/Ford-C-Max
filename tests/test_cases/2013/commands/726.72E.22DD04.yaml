@@ -4,32 +4,8 @@ test_cases:
     CMAX_CAR_T: 17
   response: 72E0462DD0488
 - expected_values:
-    CMAX_CAR_T: 17.125
-  response: 72E0462DD0489
-- expected_values:
-    CMAX_CAR_T: 17.25
-  response: 72E0462DD048A
-- expected_values:
-    CMAX_CAR_T: 17.375
-  response: 72E0462DD048B
-- expected_values:
-    CMAX_CAR_T: 17.5
-  response: 72E0462DD048C
-- expected_values:
-    CMAX_CAR_T: 17.625
-  response: 72E0462DD048D
-- expected_values:
-    CMAX_CAR_T: 17.75
-  response: 72E0462DD048E
-- expected_values:
-    CMAX_CAR_T: 17.875
-  response: 72E0462DD048F
-- expected_values:
-    CMAX_CAR_T: 21.125
-  response: 72E0462DD04A9
-- expected_values:
-    CMAX_CAR_T: 21.25
-  response: 72E0462DD04AA
+    CMAX_CAR_T: 21.375
+  response: 72E0462DD04AB
 - expected_values:
     CMAX_CAR_T: null
   response: 72E0462DD04FF

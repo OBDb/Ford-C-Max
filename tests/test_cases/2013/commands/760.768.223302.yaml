@@ -7,8 +7,8 @@ test_cases:
     CMAX_BCM_STEER_ANG_ACT: -63
   response: 768056233021C02
 - expected_values:
-    CMAX_BCM_STEER_ANG_ACT: 9.5
-  response: 768056233021ED7
+    CMAX_BCM_STEER_ANG_ACT: 10.9
+  response: 768056233021EE5
 - expected_values:
-    CMAX_BCM_STEER_ANG_ACT: 14.9
-  response: 768056233021F0D
+    CMAX_BCM_STEER_ANG_ACT: 449.3
+  response: '768056233023005'

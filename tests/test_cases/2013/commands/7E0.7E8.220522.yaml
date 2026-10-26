@@ -4,5 +4,5 @@ test_cases:
     CMAX_FUEL_T: 14
   response: '7E80462052236'
 - expected_values:
-    CMAX_FUEL_T: 36
-  response: 7E8046205224C
+    CMAX_FUEL_T: 47
+  response: '7E80462052257'

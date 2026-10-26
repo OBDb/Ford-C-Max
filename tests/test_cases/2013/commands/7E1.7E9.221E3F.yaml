@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CMAX_ATF_T_VAR_5: 148
   response: 7E905621E3F0094
+- expected_values:
+    CMAX_ATF_T_VAR_5: 256
+  response: 7E905621E3F0100
