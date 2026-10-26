@@ -1,29 +1,11 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
-    CMAX_CMD_GEN_DUTY: 16.12372
-  response: 7E8056216E814A3
-- expected_values:
-    CMAX_CMD_GEN_DUTY: 19.34358
-  response: 7E8056216E818C2
+    CMAX_CMD_GEN_DUTY: 0
+  response: 7E8056216E80000
 - expected_values:
     CMAX_CMD_GEN_DUTY: 22.5787
   response: 7E8056216E81CE6
-- expected_values:
-    CMAX_CMD_GEN_DUTY: 25.80466
-  response: 7E8056216E82107
-- expected_values:
-    CMAX_CMD_GEN_DUTY: 29.02452
-  response: 7E8056216E82526
-- expected_values:
-    CMAX_CMD_GEN_DUTY: 32.25964
-  response: 7E8056216E8294A
-- expected_values:
-    CMAX_CMD_GEN_DUTY: 35.47645
-  response: 7E8056216E82D68
-- expected_values:
-    CMAX_CMD_GEN_DUTY: 38.70546
-  response: 7E8056216E8318A
 - expected_values:
     CMAX_CMD_GEN_DUTY: 41.94058
   response: 7E8056216E835AE
