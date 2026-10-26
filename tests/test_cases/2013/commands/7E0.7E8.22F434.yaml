@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    CMAX_AIR_FUEL_RAT: 18.14313
+  response: 7E80762F4349EA08017
+- expected_values:
+    CMAX_AIR_FUEL_RAT: 18.522
+  response: 7E80762F434A1F08000
+- expected_values:
+    CMAX_AIR_FUEL_RAT: 19.68722
+  response: 7E80762F434AC208094
+- expected_values:
+    CMAX_AIR_FUEL_RAT: 23.60465
+  response: 7E80762F434CE6080E0
+- expected_values:
+    CMAX_AIR_FUEL_RAT: 29.27348
+  response: 7E80762F434FFF081CA
+- expected_values:
+    CMAX_AIR_FUEL_RAT: 29.27348
+  response: 7E80762F434FFF08203

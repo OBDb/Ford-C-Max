@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22052E
+test_cases:
+- expected_values:
+    CMAX_EGR_OPEN: 0
+  response: 7E80462052E00
+- expected_values:
+    CMAX_EGR_OPEN: 90.58824
+  response: 7E80462052EE7

@@ -7,5 +7,5 @@ test_cases:
     CMAX_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    CMAX_VSS: 93
-  response: 7E80462F40D5D
+    CMAX_VSS: 100
+  response: 7E80462F40D64
