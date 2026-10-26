@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
+    CMAX_CMD_GEN_DUTY: 16.12372
+  response: 7E8056216E814A3
+- expected_values:
     CMAX_CMD_GEN_DUTY: 19.34358
   response: 7E8056216E818C2
 - expected_values:

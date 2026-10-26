@@ -4,17 +4,5 @@ test_cases:
     CMAX_FUEL_T: 14
   response: '7E80462052236'
 - expected_values:
-    CMAX_FUEL_T: 15
-  response: '7E80462052237'
-- expected_values:
-    CMAX_FUEL_T: 16
-  response: '7E80462052238'
-- expected_values:
-    CMAX_FUEL_T: 17
-  response: '7E80462052239'
-- expected_values:
-    CMAX_FUEL_T: 18
-  response: 7E8046205223A
-- expected_values:
-    CMAX_FUEL_T: 19
-  response: 7E8046205223B
+    CMAX_FUEL_T: 36
+  response: 7E8046205224C

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22033D
 test_cases:
 - expected_values:
-    CMAX_MASS_AIRFLOW_SENS: 3311.25
-  response: 7E80562033D33BD
+    CMAX_MASS_AIRFLOW_SENS: 780.5
+  response: 7E80562033D0C32
 - expected_values:
     CMAX_MASS_AIRFLOW_SENS: 4219.25
   response: 7E80562033D41ED
@@ -10,5 +10,5 @@ test_cases:
     CMAX_MASS_AIRFLOW_SENS: 4672.75
   response: 7E80562033D4903
 - expected_values:
-    CMAX_MASS_AIRFLOW_SENS: 6622.5
-  response: 7E80562033D677A
+    CMAX_MASS_AIRFLOW_SENS: 6802.5
+  response: 7E80562033D6A4A

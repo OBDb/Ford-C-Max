@@ -4,5 +4,5 @@ test_cases:
     CMAX_ATF_T_VAR_5: 56
   response: 7E905621E3F0038
 - expected_values:
-    CMAX_ATF_T_VAR_5: 96
-  response: 7E905621E3F0060
+    CMAX_ATF_T_VAR_5: 148
+  response: 7E905621E3F0094

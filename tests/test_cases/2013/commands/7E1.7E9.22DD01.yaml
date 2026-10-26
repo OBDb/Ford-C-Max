@@ -4,23 +4,8 @@ test_cases:
     CMAX_TRANS_ODO: 212668
   response: 7E90662DD01033EBC
 - expected_values:
-    CMAX_TRANS_ODO: 212669
-  response: 7E90662DD01033EBD
-- expected_values:
-    CMAX_TRANS_ODO: 212670
-  response: 7E90662DD01033EBE
-- expected_values:
-    CMAX_TRANS_ODO: 212671
-  response: 7E90662DD01033EBF
-- expected_values:
     CMAX_TRANS_ODO: 212672
   response: 7E90662DD01033EC0
 - expected_values:
     CMAX_TRANS_ODO: 212757
   response: 7E90662DD01033F15
-- expected_values:
-    CMAX_TRANS_ODO: 212758
-  response: 7E90662DD01033F16
-- expected_values:
-    CMAX_TRANS_ODO: 212759
-  response: 7E90662DD01033F17

@@ -7,8 +7,8 @@ test_cases:
     CMAX_AIR_FUEL_RAT: 18.522
   response: 7E80762F434A1F08000
 - expected_values:
-    CMAX_AIR_FUEL_RAT: 19.68722
-  response: 7E80762F434AC208094
+    CMAX_AIR_FUEL_RAT: 18.54345
+  response: 7E80762F434A2208068
 - expected_values:
     CMAX_AIR_FUEL_RAT: 23.60465
   response: 7E80762F434CE6080E0
