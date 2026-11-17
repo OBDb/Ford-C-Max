@@ -7,5 +7,5 @@ test_cases:
     CMAX_BRK_FL_P: 0
   response: 76805622B0D0000
 - expected_values:
-    CMAX_BRK_FL_P: 0
+    CMAX_BRK_FL_P: 106
   response: 76805622B0D006A
